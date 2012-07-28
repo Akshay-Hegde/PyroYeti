@@ -10,8 +10,12 @@ Oh, did I mention, its free!
 ### Features
 * Responsive Layout provided by the Foundation3 framework
 * HTML5 / CSS3
+* Google Web Fonts
 * Simple and Beautiful
 * Free!
+
+### Screenshot
+![Screenshot](https://github.com/pyrosuit/PyroYeti/raw/master/screenshot.png "PyroYeti - Responsive Minimalist PyroCMS Theme")
 
 ### MIT Open Source License
 Check out the license in the file:
