@@ -17,6 +17,9 @@ Oh, did I mention, its free!
 ### Screenshot
 ![Screenshot](https://github.com/pyrosuit/PyroYeti/raw/master/screenshot.png "PyroYeti - Responsive Minimalist PyroCMS Theme")
 
+### Screenshot - Mobile
+![Screenshot](https://github.com/pyrosuit/PyroYeti/raw/master/screenshot-mobile.png "PyroYeti on Mobile - Responsive Minimalist PyroCMS Theme")
+
 ### MIT Open Source License
 Check out the license in the file:
 	license.txt
